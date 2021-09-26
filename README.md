@@ -14,7 +14,8 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-    'screenshot
+    ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89175578/134826840-0fc707b3-a5ee-4472-97b9-a347814e6b90.png)
+
 
     Firstly, the analysis of Outcomes based on Launch Date demonstrably shows a relationship between when a 
     theater campaign is successful and when it is launched. This graph's y-axis is based on the total number 
