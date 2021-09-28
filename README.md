@@ -50,7 +50,7 @@
 
 ## Results
 
-- Two conclusions you can draw about the Outcomes based on Launch Date
+- Conclusions about the Outcomes based on Launch Date
 
     It is apparent that other campaigns are aware to launch at around the same times, since the number of successful launches coincided with an increase in failed launches as well. This would indicate to some degree there may be some "best practices" to follow to give your campaign a better shot that people are aware of, like launching during the beginning of the summer months. 
 
