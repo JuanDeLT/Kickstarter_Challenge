@@ -14,7 +14,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89175578/134826840-0fc707b3-a5ee-4472-97b9-a347814e6b90.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89175578/134827012-a846562b-51d6-4ba5-9350-c025ba95dd23.png)
 
     Firstly, the analysis of Outcomes based on Launch Date demonstrably shows a relationship between when a 
     theater campaign is successful and when it is launched. This graph's y-axis is based on the total number 
@@ -26,7 +26,7 @@
 
 ### Analysis of Outcomes Based on Goals
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89175578/134827012-a846562b-51d6-4ba5-9350-c025ba95dd23.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89175578/134826840-0fc707b3-a5ee-4472-97b9-a347814e6b90.png)
 
     Secondly, the analysis of Outcomes Based on Goals also reveals some interesting relationships between the 
     goals of the play campaigns and their success. There seems to be an inverse relationship between the number of 
